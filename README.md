@@ -1,6 +1,6 @@
 # Dev Landing Page
 
-Minimal landing page for developers.
+We are switched our domain to codecamp.network for developers.
 
 Developers don't talk much. Their code does all the talking. So here's a minimal landing page for developers.
 
